@@ -1,0 +1,17 @@
+.checkout {
+  background-color: #eaeded;
+  margin: 0 auto;
+  display: flex;
+  max-width: 1920px;
+}
+
+.checkout__container {
+  max-width: 1500px;
+  margin: 0 auto;
+  min-height: 100vh;
+}
+
+.checkout__ad {
+  width: 100%;
+  margin-bottom: 10px;
+}
